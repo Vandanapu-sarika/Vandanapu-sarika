@@ -1,0 +1,17 @@
+form {
+  width: 600px;
+  padding-top: 50px;
+}
+fieldset {
+  background-color: rgb(225, 216, 216);
+  border-radius: 20px;
+}
+#heading {
+  text-align: center;
+}
+td {
+  text-align: center;
+}
+#footer {
+  text-align: center;
+}

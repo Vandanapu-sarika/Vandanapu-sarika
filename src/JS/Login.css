@@ -1,0 +1,52 @@
+body {
+  /*padding: 0px 200px 0px 600px;*/
+  text-align: center;
+  color: #087f5b;
+  /* padding-top: 150px; */
+  background-image: url("im.jpg");
+}
+h2 {
+  color: #20c997;
+}
+form {
+  border-radius: 7%;
+  padding-top: 100px;
+}
+
+.button {
+  width: 150px;
+  height: 30px;
+}
+
+.account:hover,
+.account:active {
+  color: #96f2d7;
+}
+.forgot:hover,
+.forgot:active {
+  color: #96f2d7;
+}
+.account,
+.forgot {
+  color: #20c997;
+}
+
+button {
+  background-color: #20c997;
+  width: 100px;
+  height: 20px;
+}
+input {
+  width: 200px;
+  height: 30px;
+}
+.create {
+  text-decoration: none;
+}
+.forgot1 {
+  color: black;
+}
+.pass {
+  color: #20c997;
+  text-decoration: none;
+}

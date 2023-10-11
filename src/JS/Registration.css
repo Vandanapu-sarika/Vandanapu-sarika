@@ -1,0 +1,36 @@
+th {
+  color: black;
+}
+form {
+  padding-left: 300px;
+}
+table {
+  background-color: #f4fce3;
+}
+.create {
+  background-color: #d8f5a2;
+}
+th:hover,
+th:active {
+  color: #868e96;
+}
+input {
+  border-radius: 2%;
+  width: 200px;
+  height: 15px;
+}
+textarea {
+  border-radius: 5%;
+}
+.submit {
+  padding: 2px 2px 2px 2px;
+}
+select {
+  width: 150px;
+  border: 50px;
+}
+button {
+  background-color: #94d82d;
+  width: 150px;
+  height: 30px;
+}

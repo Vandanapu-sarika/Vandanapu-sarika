@@ -1,0 +1,19 @@
+.side {
+  box-sizing: border-box;
+  width: 300px;
+  height: max-content;
+  background-color: #000000;
+}
+.items {
+  display: flex;
+  font-size: 20px;
+  text-align: center;
+  background-color: #000000;
+  color: white;
+  padding-right: 10px;
+  justify-content: flex-start;
+}
+.lin {
+  color: white;
+  text-decoration: none;
+}

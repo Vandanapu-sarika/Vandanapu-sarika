@@ -1,0 +1,22 @@
+body {
+  color: #40c057;
+  /*background-image: url("im7.jpg");*/
+}
+.forgotpad {
+  padding-left: 700px;
+}
+/*
+th {
+  padding-left: 70px;
+}
+div {
+  padding-top: 100px;
+}*/
+form {
+  border-radius: 7%;
+}
+button {
+  width: 200px;
+  height: 30px;
+  background-color: #69db7c;
+}
